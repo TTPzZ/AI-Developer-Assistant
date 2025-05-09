@@ -21,6 +21,10 @@ build/
 *.sql
 *.sqlite
 
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
 # Misc
 .DS_Store
 *.env.local
